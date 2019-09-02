@@ -21,7 +21,7 @@ import sendForm from './modules/sendForm';
 
 
 // таймер (урок 12)    
-setInterval(countTimer, 1000, '31 july 2019');
+countTimer('19 july 2119');
 // меню (урок 13)    
 togglemenu();
 // popup окно
